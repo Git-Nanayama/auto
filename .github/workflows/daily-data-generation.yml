@@ -1,0 +1,44 @@
+  1 name: 1. Daily Data Generation
+    2
+    3 on:
+    4   # 毎日AM3時に自動実行 (UTCで18時)
+    5   schedule:
+    6     - cron: '0 18 * * *'
+    7   # 手動でも実行できるようにする
+    8   workflow_dispatch:
+    9
+   10 jobs:
+   11   build-and-save-data:
+   12     runs-on: ubuntu-latest
+   13     steps:
+   14       - name: Checkout repository
+   15         uses: actions/checkout@v4
+   16
+   17       - name: Set up Python
+   18         uses: actions/setup-python@v5
+   19         with:
+   20           python-version: '3.11'
+   21
+   22       - name: Install dependencies
+   23         run: |
+   24           python -m pip install --upgrade pip
+   25           pip install -r download-upload/requirements.txt
+   26           pip install -r sales/requirements.txt
+   27
+   28       - name: Run Download Script
+   29         env:
+   30           TENKURA_EMAIL: ${{ secrets.TENKURA_EMAIL }}
+   31           TENKURA_PASSWORD: ${{ secrets.TENKURA_PASSWORD }}
+   32         run: python download-upload/download_data.py
+   33
+   34       - name: Run Sales Data Processing Scripts
+   35         run: |
+   36           python sales/process_sales_data.py
+   37           python sales/convert_to_freee_format.py
+   38
+   39       - name: Upload Freee Import CSV as Artifact
+   40         uses: actions/upload-artifact@v4
+   41         with:
+   42           name: freee-import-file
+   43           # ファイル名はスクリプトの出力に合わせて調整してください
+   44           path: sales/freee_import_sales_data_*.csv
