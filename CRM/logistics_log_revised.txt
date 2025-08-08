@@ -1,0 +1,915 @@
+Revised Logistics Calculation Log
+=================================
+Line 2: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 3: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 4: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 5: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 6: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 7: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 8: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 9: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 10: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 11: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 12: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 13: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 14: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 15: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 16: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 17: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 18: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 19: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 20: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 21: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 22: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 23: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 24: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 25: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 26: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 27: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 28: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 29: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 30: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 31: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 32: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 33: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 34: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 35: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 36: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 37: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 38: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 39: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 40: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 41: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 42: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 43: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 44: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 45: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 46: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 47: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 48: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 49: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 50: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 51: Processed. Provider: '要町', Cost: 1304, Reason: Inferred from Remarks
+Line 52: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 53: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 54: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 55: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 56: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 57: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 58: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 59: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 60: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 61: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 62: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 63: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 64: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 65: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 66: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 67: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 68: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 69: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 70: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 71: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 72: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 73: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 74: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 75: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 76: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 77: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 78: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 79: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 80: Processed. Provider: 'SF', Cost: 406, Reason: Provided in data
+Line 81: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 82: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 83: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 84: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 85: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 86: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 87: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 88: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 89: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 90: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 91: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 92: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 93: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 94: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 95: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 96: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 97: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 98: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 99: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 100: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 101: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 102: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 103: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 104: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 105: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 106: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 107: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 108: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 109: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 110: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 111: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 112: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 113: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 114: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 115: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 116: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 117: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 118: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 119: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 120: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 121: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 122: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 123: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 124: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 125: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 126: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 127: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 128: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 129: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 130: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 131: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 132: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 133: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 134: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 135: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 136: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 137: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 138: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 139: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 140: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 141: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 142: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 143: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 144: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 145: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 146: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 147: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 148: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 149: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 150: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 151: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 152: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 153: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 154: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 155: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 156: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 157: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 158: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 159: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 160: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 161: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 162: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 163: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 164: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 165: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 166: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 167: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 168: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 169: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 170: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 171: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 172: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 173: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 174: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 175: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 176: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 177: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 178: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 179: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 180: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 181: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 182: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 183: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 184: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 185: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 186: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 187: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 188: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 189: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 190: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 191: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 192: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 193: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 194: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 195: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 196: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 197: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 198: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 199: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 200: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 201: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 202: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 203: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 204: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 205: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 206: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 207: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 208: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 209: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 210: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 211: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 212: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 213: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 214: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 215: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 216: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 217: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 218: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 219: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 220: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 221: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 222: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 223: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 224: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 225: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 226: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 227: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 228: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 229: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 230: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 231: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 232: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 233: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 234: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 235: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 236: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 237: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 238: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 239: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 240: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 241: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 242: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 243: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 244: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 245: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 246: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 247: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 248: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 249: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 250: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 251: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 252: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 253: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 254: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 255: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 256: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 257: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 258: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 259: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 260: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 261: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 262: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 263: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 264: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 265: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 266: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 267: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 268: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 269: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 270: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 271: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 272: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 273: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 274: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 275: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 276: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 277: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 278: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 279: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 280: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 281: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 282: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 283: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 284: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 285: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 286: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 287: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 288: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 289: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 290: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 291: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 292: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 293: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 294: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 295: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 296: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 297: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 298: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 299: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 300: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 301: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 302: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 303: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 304: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 305: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 306: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 307: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 308: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 309: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 310: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 311: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 312: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 313: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 314: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 315: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 316: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 317: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 318: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 319: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 320: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 321: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 322: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 323: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 324: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 325: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 326: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 327: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 328: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 329: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 330: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 331: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 332: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 333: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 334: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 335: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 336: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 337: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 338: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 339: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 340: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 341: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 342: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 343: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 344: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 345: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 346: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 347: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 348: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 349: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 350: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 351: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 352: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 353: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 354: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 355: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 356: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 357: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 358: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 359: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 360: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 361: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 362: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 363: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 364: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 365: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 366: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 367: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 368: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 369: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 370: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 371: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 372: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 373: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 374: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 375: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 376: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 377: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 378: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 379: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 380: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 381: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 382: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 383: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 384: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 385: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 386: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 387: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 388: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 389: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 390: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 391: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 392: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 393: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 394: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 395: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 396: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 397: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 398: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 399: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 400: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 401: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 402: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 403: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 404: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 405: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 406: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 407: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 408: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 409: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 410: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 411: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 412: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 413: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 414: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 415: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 416: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 417: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 418: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 419: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 420: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 421: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 422: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 423: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 424: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 425: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 426: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 427: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 428: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 429: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 430: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 431: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 432: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 433: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 434: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 435: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 436: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 437: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 438: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 439: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 440: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 441: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 442: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 443: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 444: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 445: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 446: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 447: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 448: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 449: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 450: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 451: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 452: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 453: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 454: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 455: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 456: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 457: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 458: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 459: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 460: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 461: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 462: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 463: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 464: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 465: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 466: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 467: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 468: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 469: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 470: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 471: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 472: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 473: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 474: Processed. Provider: 'JD', Cost: 1355, Reason: Provided in data
+Line 475: Processed. Provider: 'JD', Cost: 1355, Reason: Provided in data
+Line 476: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 477: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 478: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 479: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 480: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 481: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 482: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 483: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 484: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 485: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 486: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 487: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 488: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 489: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 490: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 491: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 492: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 493: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 494: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 495: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 496: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 497: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 498: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 499: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 500: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 501: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 502: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 503: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 504: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 505: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 506: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 507: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 508: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 509: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 510: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 511: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 512: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 513: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 514: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 515: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 516: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 517: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 518: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 519: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 520: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 521: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 522: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 523: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 524: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 525: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 526: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 527: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 528: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 529: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 530: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 531: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 532: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 533: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 534: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 535: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 536: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 537: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 538: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 539: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 540: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 541: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 542: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 543: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 544: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 545: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 546: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 547: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 548: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 549: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 550: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 551: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 552: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 553: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 554: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 555: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 556: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 557: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 558: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 559: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 560: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 561: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 562: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 563: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 564: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 565: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 566: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 567: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 568: Processed. Provider: 'JD', Cost: 1355, Reason: Provided in data
+Line 569: Processed. Provider: 'JD', Cost: 1355, Reason: Provided in data
+Line 570: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 571: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 572: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 573: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 574: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 575: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 576: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 577: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 578: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 579: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 580: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 581: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 582: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 583: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 584: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 585: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 586: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 587: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 588: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 589: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 590: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 591: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 592: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 593: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 594: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 595: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 596: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 597: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 598: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 599: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 600: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 601: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 602: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 603: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 604: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 605: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 606: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 607: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 608: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 609: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 610: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 611: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 612: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 613: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 614: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 615: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 616: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 617: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 618: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 619: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 620: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 621: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 622: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 623: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 624: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 625: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 626: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 627: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 628: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 629: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 630: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 631: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 632: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 633: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 634: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 635: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 636: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 637: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 638: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 639: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 640: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 641: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 642: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 643: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 644: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 645: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 646: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 647: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 648: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 649: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 650: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 651: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 652: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 653: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 654: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 655: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 656: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 657: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 658: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 659: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 660: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 661: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 662: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 663: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 664: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 665: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 666: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 667: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 668: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 669: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 670: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 671: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 672: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 673: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 674: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 675: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 676: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 677: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 678: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 679: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 680: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 681: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 682: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 683: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 684: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 685: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 686: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 687: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 688: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 689: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 690: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 691: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 692: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 693: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 694: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 695: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 696: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 697: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 698: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 699: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 700: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 701: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 702: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 703: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 704: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 705: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 706: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 707: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 708: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 709: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 710: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 711: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 712: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 713: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 714: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 715: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 716: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 717: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 718: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 719: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 720: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 721: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 722: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 723: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 724: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 725: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 726: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 727: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 728: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 729: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 730: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 731: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 732: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 733: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 734: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 735: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 736: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 737: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 738: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 739: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 740: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 741: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 742: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 743: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 744: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 745: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 746: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 747: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 748: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 749: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 750: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 751: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 752: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 753: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 754: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 755: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 756: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 757: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 758: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 759: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 760: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 761: Processed. Provider: '神户物流', Cost: 248, Reason: Provided in data
+Line 762: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 763: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 764: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 765: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 766: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 767: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 768: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 769: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 770: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 771: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 772: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 773: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 774: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 775: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 776: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 777: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 778: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 779: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 780: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 781: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 782: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 783: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 784: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 785: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 786: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 787: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 788: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 789: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 790: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 791: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 792: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 793: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 794: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 795: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 796: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 797: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 798: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 799: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 800: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 801: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 802: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 803: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 804: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 805: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 806: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 807: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 808: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 809: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 810: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 811: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 812: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 813: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 814: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 815: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 816: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 817: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 818: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 819: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 820: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 821: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 822: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 823: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 824: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 825: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 826: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 827: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 828: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 829: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 830: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 831: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 832: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 833: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 834: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 835: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 836: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 837: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 838: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 839: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 840: Processed. Provider: '大阪神洲物流', Cost: 606, Reason: Provided in data
+Line 841: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 842: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 843: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 844: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 845: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 846: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 847: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 848: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 849: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 850: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 851: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 852: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 853: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 854: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 855: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 856: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 857: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 858: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 859: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 860: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 861: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 862: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 863: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 864: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 865: Processed. Provider: '要町SF', Cost: 1304, Reason: Provided in data
+Line 866: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 867: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 868: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 869: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 870: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 871: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 872: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 873: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 874: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 875: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 876: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 877: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 878: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 879: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 880: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 881: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 882: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 883: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 884: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 885: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 886: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 887: Processed. Provider: 'ヤマト', Cost: 0, Reason: Inferred from Logistics Method
+Line 888: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 889: Processed. Provider: '神戸物流', Cost: 248, Reason: Provided in data
+Line 890: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 891: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 892: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 893: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 894: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 895: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 896: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 897: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 898: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 899: Processed. Provider: 'SF CN', Cost: 406, Reason: Provided in data
+Line 900: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 901: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 902: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 903: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 904: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 905: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 906: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 907: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 908: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 909: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 910: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 911: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 912: UNHANDLED. Provider: 'Unknown'. Cost not found.
+Line 913: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data
+Line 914: Processed. Provider: 'EMS', Cost: 1308, Reason: Provided in data

@@ -1,0 +1,915 @@
+Final Logistics Calculation Log
+=================================
+L2: Provider 'EMS' (Provided). Product: 'Semaglutide 司美格鲁肽 2m'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L3: Provider '要町' (Inferred from Remarks). Product: 'Juvela N Soft Capsul'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L4: Provider '要町' (Inferred from Remarks). Product: '兴和制药　Cabagin KOWA α肠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 3912.0
+L5: Provider '要町' (Inferred from Remarks). Product: '救心丸  60粒'. Qty: 5.0. Boxes: 5.0 (Default rule (quantity)). Cost: 6520.0
+L6: Provider '要町' (Inferred from Remarks). Product: '氢化可的松 2g×50支'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L7: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 20.0. Boxes: 20.0 (Default rule (quantity)). Cost: 26160.0
+L8: Provider 'EMS' (Provided). Product: '救心丸  30粒'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2616.0
+L9: Provider 'EMS' (Provided). Product: 'Rebamipide瑞巴派特片100mg'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L10: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L11: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L12: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L13: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L14: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L15: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L16: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L17: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L18: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L19: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L20: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L21: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L22: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L23: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L24: Provider '要町' (Inferred from Remarks). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L25: Provider '要町' (Inferred from Remarks). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L26: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L27: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 0
+L28: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L29: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L30: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L31: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L32: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L33: Provider '神戸物流' (Provided). Product: '帝人痛风20mg 100錠'. Qty: 4.0. Boxes: 4.0 (Default rule (quantity)). Cost: 992.0
+L34: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L35: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L36: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L37: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L38: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L39: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L40: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L41: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L42: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L43: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L44: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L45: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L46: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L47: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L48: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L49: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L50: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L51: Provider '要町' (Inferred from Remarks). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L52: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L53: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 3924.0
+L54: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L55: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L56: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L57: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L58: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L59: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L60: Provider 'EMS' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 12.0. Boxes: 12.0 (Default rule (quantity)). Cost: 15696.0
+L61: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L62: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L63: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L64: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L65: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L66: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39240.0
+L67: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39240.0
+L68: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39240.0
+L69: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L70: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L71: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L72: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L73: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L74: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L75: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L76: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L77: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L78: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2616.0
+L79: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L80: Provider 'SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 406.0
+L81: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L82: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L83: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L84: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L85: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L86: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L87: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L88: Provider '要町SF' (Provided). Product: 'Quviviq/Daridorexant'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L89: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L90: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 55.0. Boxes: 28 (Mounjaro rule (ceil(55.0/2))). Cost: 6944
+L91: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 55.0. Boxes: 28 (Mounjaro rule (ceil(55.0/2))). Cost: 6944
+L92: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 25.0. Boxes: 13 (Mounjaro rule (ceil(25.0/2))). Cost: 3224
+L93: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 744
+L94: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L95: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L96: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L97: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L98: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L99: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L100: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L101: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L102: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L103: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L104: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L105: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L106: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 15150
+L107: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 40.0. Boxes: 20 (Mounjaro rule (ceil(40.0/2))). Cost: 12120
+L108: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L109: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L110: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L111: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L112: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L113: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 1218
+L114: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L115: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L116: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L117: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L118: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L119: Provider '要町SF' (Provided). Product: 'Quviviq/Daridorexant'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L120: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L121: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L122: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L123: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L124: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L125: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L126: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L127: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L128: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L129: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L130: Provider 'EMS' (Provided). Product: 'Semaglutide 司美格鲁肽 2m'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L131: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L132: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L133: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L134: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L135: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L136: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L137: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L138: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 744
+L139: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L140: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L141: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L142: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L143: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L144: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L145: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L146: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L147: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L148: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 37200
+L149: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L150: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L151: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 24.0. Boxes: 12 (Mounjaro rule (ceil(24.0/2))). Cost: 2976
+L152: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L153: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L154: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L155: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L156: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L157: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L158: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 10.0. Boxes: 10.0 (Default rule (quantity)). Cost: 13080.0
+L159: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 80.0. Boxes: 80.0 (Default rule (quantity)). Cost: 104640.0
+L160: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L161: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L162: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L163: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 744
+L164: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L165: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L166: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L167: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L168: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L169: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L170: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L171: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 12400
+L172: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 44.0. Boxes: 22 (Mounjaro rule (ceil(44.0/2))). Cost: 5456
+L173: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L174: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L175: Provider '神戸物流' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 744.0
+L176: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L177: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L178: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L179: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L180: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L181: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L182: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L183: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L184: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L185: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L186: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L187: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 496
+L188: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L189: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L190: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L191: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L192: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39240.0
+L193: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39240.0
+L194: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L195: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 260.0. Boxes: 130 (Mounjaro rule (ceil(260.0/2))). Cost: 32240
+L196: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 3720
+L197: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 10.0. Boxes: 5 (Mounjaro rule (ceil(10.0/2))). Cost: 1240
+L198: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L199: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L200: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L201: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L202: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L203: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L204: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L205: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L206: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 10.0. Boxes: 10.0 (Default rule (quantity)). Cost: 13080.0
+L207: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L208: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L209: Provider '要町SF' (Provided). Product: '帝人痛风10mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L210: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L211: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L212: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L213: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L214: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L215: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L216: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L217: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L218: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L219: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L220: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L221: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L222: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L223: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L224: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L225: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 992
+L226: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L227: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2616.0
+L228: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L229: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L230: Provider 'ヤマト' (Inferred from Logistics Method). Product: '帝人痛风10mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 0.0
+L231: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L232: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L233: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L234: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L235: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L236: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L237: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L238: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L239: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L240: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L241: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L242: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L243: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L244: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L245: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L246: Provider 'ヤマト' (Inferred from Logistics Method). Product: '医美用 L-Cysteine 半胱胺酸片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 0.0
+L247: Provider 'ヤマト' (Inferred from Logistics Method). Product: '阳进堂美白处方药 口服传明酸片剂 500'. Qty: 6.0. Boxes: 6.0 (Default rule (quantity)). Cost: 0.0
+L248: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L249: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L250: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2616.0
+L251: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L252: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L253: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L254: Provider '要町SF' (Provided). Product: 'Quviviq/Daridorexant'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L255: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L256: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L257: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L258: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L259: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L260: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L261: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L262: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L263: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L264: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L265: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L266: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L267: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L268: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L269: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L270: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L271: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L272: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L273: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L274: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L275: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L276: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L277: Provider '要町SF' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2608
+L278: Provider '要町SF' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2608
+L279: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L280: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L281: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L282: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L283: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L284: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L285: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L286: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L287: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L288: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L289: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L290: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L291: Provider '要町SF' (Provided). Product: 'Rebamipide瑞巴派特片100mg'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L292: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L293: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L294: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L295: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L296: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L297: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L298: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L299: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L300: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L301: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L302: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L303: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L304: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L305: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L306: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L307: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L308: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L309: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L310: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L311: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L312: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L313: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L314: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L315: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L316: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L317: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L318: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L319: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L320: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L321: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L322: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L323: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L324: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L325: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L326: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L327: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L328: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L329: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L330: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L331: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 500.0. Boxes: 250 (Mounjaro rule (ceil(500.0/2))). Cost: 62000
+L332: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 700.0. Boxes: 350 (Mounjaro rule (ceil(700.0/2))). Cost: 86800
+L333: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L334: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L335: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L336: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L337: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L338: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L339: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L340: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L341: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L342: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L343: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L344: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L345: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L346: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L347: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L348: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L349: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L350: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L351: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L352: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L353: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L354: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L355: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L356: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L357: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L358: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L359: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L360: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 600.0. Boxes: 300 (Mounjaro rule (ceil(600.0/2))). Cost: 74400
+L361: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 37200
+L362: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L363: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L364: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L365: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L366: Provider '神戸物流' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 15.0. Boxes: 15.0 (Default rule (quantity)). Cost: 3720.0
+L367: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L368: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L369: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L370: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L371: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L372: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L373: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L374: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 10.0. Boxes: 5 (Mounjaro rule (ceil(10.0/2))). Cost: 1240
+L375: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L376: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39120.0
+L377: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 120.0. Boxes: 120.0 (Default rule (quantity)). Cost: 156480.0
+L378: Provider '要町SF' (Provided). Product: 'Rebamipide瑞巴派特片100mg'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L379: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 6200
+L380: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 6200
+L381: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 15.0. Boxes: 8 (Mounjaro rule (ceil(15.0/2))). Cost: 1984
+L382: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L383: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L384: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L385: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L386: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L387: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L388: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L389: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L390: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L391: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 496
+L392: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L393: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L394: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L395: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L396: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L397: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L398: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L399: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L400: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L401: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L402: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L403: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L404: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L405: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L406: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L407: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L408: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L409: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L410: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L411: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L412: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L413: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L414: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L415: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L416: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L417: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L418: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 12.0. Boxes: 6 (Mounjaro rule (ceil(12.0/2))). Cost: 1488
+L419: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L420: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L421: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L422: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 496
+L423: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 15.0. Boxes: 8 (Mounjaro rule (ceil(15.0/2))). Cost: 1984
+L424: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 35.0. Boxes: 18 (Mounjaro rule (ceil(35.0/2))). Cost: 4464
+L425: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L426: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L427: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L428: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L429: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L430: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L431: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L432: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L433: Provider 'EMS' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 15.0. Boxes: 15.0 (Default rule (quantity)). Cost: 19620.0
+L434: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L435: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L436: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L437: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L438: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L439: Provider '神戸物流' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 15.0. Boxes: 15.0 (Default rule (quantity)). Cost: 3720.0
+L440: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L441: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L442: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L443: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L444: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L445: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L446: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L447: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L448: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L449: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 83.0. Boxes: 42 (Mounjaro rule (ceil(83.0/2))). Cost: 25452
+L450: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L451: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L452: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L453: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L454: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 1218
+L455: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L456: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L457: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L458: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L459: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L460: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L461: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L462: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L463: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L464: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L465: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L466: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L467: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 16.0. Boxes: 8 (Mounjaro rule (ceil(16.0/2))). Cost: 0
+L468: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L469: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L470: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L471: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L472: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 59.0. Boxes: 30 (Mounjaro rule (ceil(59.0/2))). Cost: 18180
+L473: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 24.0. Boxes: 12 (Mounjaro rule (ceil(24.0/2))). Cost: 7272
+L474: Provider 'JD' (Provided). Product: 'TRANSAMIN 第一三共氨甲环酸 美'. Qty: 5.0. Boxes: 5.0 (Default rule (quantity)). Cost: 6775.0
+L475: Provider 'JD' (Provided). Product: 'Sennoside 番泻甙 番泻苷 番泻'. Qty: 5.0. Boxes: 5.0 (Default rule (quantity)). Cost: 6775.0
+L476: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L477: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L478: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L479: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L480: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L481: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L482: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L483: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L484: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L485: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L486: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 1040.0. Boxes: 1040.0 (Default rule (quantity)). Cost: 0.0
+L487: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L488: Provider '要町SF' (Provided). Product: 'Rebamipide瑞巴派特片100mg'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L489: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L490: Provider '要町SF' (Provided). Product: '帝人痛风20mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L491: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L492: Provider 'EMS' (Provided). Product: '帝人痛风10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L493: Provider 'EMS' (Provided). Product: '武田幽门螺旋杆菌蓝三普400 7回'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L494: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L495: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L496: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L497: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L498: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L499: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L500: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L501: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L502: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L503: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 1218
+L504: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L505: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L506: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L507: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L508: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2616.0
+L509: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L510: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L511: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L512: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L513: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L514: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L515: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L516: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L517: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L518: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L519: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L520: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L521: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L522: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L523: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L524: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L525: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L526: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L527: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L528: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L529: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L530: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L531: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L532: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L533: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L534: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L535: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L536: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L537: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L538: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 500.0. Boxes: 250 (Mounjaro rule (ceil(500.0/2))). Cost: 62000
+L539: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 12400
+L540: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L541: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L542: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 600.0. Boxes: 300 (Mounjaro rule (ceil(600.0/2))). Cost: 74400
+L543: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L544: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 37200
+L545: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L546: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L547: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L548: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L549: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L550: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L551: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L552: Provider '神户物流' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 496.0
+L553: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L554: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L555: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L556: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L557: Provider 'EMS' (Provided). Product: '帝人痛风20mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 3924.0
+L558: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L559: Provider 'EMS' (Provided). Product: 'TRANSAMIN 第一三共氨甲环酸 美'. Qty: 4.0. Boxes: 4.0 (Default rule (quantity)). Cost: 5232.0
+L560: Provider 'EMS' (Provided). Product: 'Sennoside 番泻甙 番泻苷 番泻'. Qty: 4.0. Boxes: 4.0 (Default rule (quantity)). Cost: 5232.0
+L561: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L562: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L563: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L564: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L565: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L566: Provider '神戸物流' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 744.0
+L567: Provider '神戸物流' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 248.0
+L568: Provider 'JD' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1355
+L569: Provider 'JD' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1355
+L570: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L571: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L572: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L573: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L574: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L575: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L576: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L577: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 2608.0
+L578: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L579: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L580: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L581: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L582: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L583: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L584: Provider 'SF CN' (Provided). Product: '帝人痛风20mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 406.0
+L585: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L586: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L587: Provider 'EMS' (Provided). Product: '帝人痛风20mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L588: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L589: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L590: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L591: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L592: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L593: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L594: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L595: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L596: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L597: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L598: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 3.0. Boxes: 3.0 (Default rule (quantity)). Cost: 3924.0
+L599: Provider '要町SF' (Provided). Product: 'Quviviq/Daridorexant'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L600: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L601: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L602: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L603: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L604: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L605: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L606: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L607: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L608: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L609: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 189.0. Boxes: 95 (Mounjaro rule (ceil(189.0/2))). Cost: 57570
+L610: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 9090
+L611: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 20.0. Boxes: 10 (Mounjaro rule (ceil(20.0/2))). Cost: 6060
+L612: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 10.0. Boxes: 5 (Mounjaro rule (ceil(10.0/2))). Cost: 3030
+L613: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L614: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 20.0. Boxes: 20.0 (Default rule (quantity)). Cost: 26160.0
+L615: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L616: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L617: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L618: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L619: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L620: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L621: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L622: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L623: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L624: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L625: Provider 'SF CN' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 406.0
+L626: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L627: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L628: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L629: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L630: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L631: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L632: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L633: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L634: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L635: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L636: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L637: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L638: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L639: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L640: Provider '要町SF' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1304
+L641: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L642: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L643: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L644: Provider '要町SF' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1304
+L645: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L646: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L647: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L648: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L649: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L650: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L651: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L652: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L653: Provider '要町SF' (Provided). Product: 'Olopatadine盐酸奥洛他定片5m'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L654: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 25.0. Boxes: 13 (Mounjaro rule (ceil(25.0/2))). Cost: 3224
+L655: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 6200
+L656: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 3720
+L657: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L658: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L659: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L660: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L661: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L662: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L663: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L664: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L665: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L666: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L667: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L668: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L669: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L670: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L671: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L672: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L673: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L674: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L675: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L676: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L677: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L678: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L679: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L680: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L681: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L682: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L683: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 500.0. Boxes: 250 (Mounjaro rule (ceil(500.0/2))). Cost: 62000
+L684: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 37200
+L685: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L686: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 400.0. Boxes: 200 (Mounjaro rule (ceil(400.0/2))). Cost: 49600
+L687: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 200.0. Boxes: 100 (Mounjaro rule (ceil(200.0/2))). Cost: 24800
+L688: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 90900
+L689: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 90900
+L690: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L691: Provider '神户物流' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 15.0. Boxes: 15.0 (Default rule (quantity)). Cost: 3720.0
+L692: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L693: Provider '神户物流' (Provided). Product: '62 津村制药汉方 防风通圣散冲剂  2'. Qty: 15.0. Boxes: 15.0 (Default rule (quantity)). Cost: 3720.0
+L694: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L695: Provider '神户物流' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 248.0
+L696: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L697: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L698: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 960.0. Boxes: 960.0 (Default rule (quantity)). Cost: 0.0
+L699: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L700: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L701: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 5.0. Boxes: 5.0 (Default rule (quantity)). Cost: 6540.0
+L702: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 3720
+L703: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 6200
+L704: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L705: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L706: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L707: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L708: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L709: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L710: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 812
+L711: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L712: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L713: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L714: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L715: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L716: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L717: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L718: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L719: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L720: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L721: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L722: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L723: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L724: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 40.0. Boxes: 20 (Mounjaro rule (ceil(40.0/2))). Cost: 4960
+L725: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 40.0. Boxes: 20 (Mounjaro rule (ceil(40.0/2))). Cost: 4960
+L726: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 3720
+L727: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 744
+L728: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L729: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 410.0. Boxes: 205 (Mounjaro rule (ceil(410.0/2))). Cost: 124230
+L730: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 50.0. Boxes: 25 (Mounjaro rule (ceil(50.0/2))). Cost: 15150
+L731: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 30.0. Boxes: 15 (Mounjaro rule (ceil(30.0/2))). Cost: 9090
+L732: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 10.0. Boxes: 5 (Mounjaro rule (ceil(10.0/2))). Cost: 3030
+L733: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L734: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L735: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 744
+L736: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 992
+L737: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 496
+L738: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 90900
+L739: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 176.0. Boxes: 88 (Mounjaro rule (ceil(176.0/2))). Cost: 53328
+L740: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L741: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L742: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L743: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L744: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L745: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L746: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L747: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L748: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L749: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L750: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L751: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L752: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L753: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 30.0. Boxes: 30.0 (Default rule (quantity)). Cost: 39120.0
+L754: Provider '要町SF' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 60.0. Boxes: 60.0 (Default rule (quantity)). Cost: 78240.0
+L755: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L756: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L757: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L758: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L759: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L760: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L761: Provider '神户物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L762: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L763: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L764: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L765: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L766: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L767: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L768: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 600.0. Boxes: 300 (Mounjaro rule (ceil(600.0/2))). Cost: 181800
+L769: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 540.0. Boxes: 270 (Mounjaro rule (ceil(540.0/2))). Cost: 163620
+L770: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 60.0. Boxes: 30 (Mounjaro rule (ceil(60.0/2))). Cost: 18180
+L771: Provider '神戸物流' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 496.0
+L772: Provider '神戸物流' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 2.0. Boxes: 2.0 (Default rule (quantity)). Cost: 496.0
+L773: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L774: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L775: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L776: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生2.5mg 100'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L777: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L778: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L779: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 12.0. Boxes: 6 (Mounjaro rule (ceil(12.0/2))). Cost: 7848
+L780: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L781: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L782: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L783: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L784: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L785: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L786: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L787: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L788: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 496
+L789: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 248
+L790: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 496
+L791: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L792: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L793: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 12400
+L794: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 12400
+L795: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 90900
+L796: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 300.0. Boxes: 150 (Mounjaro rule (ceil(300.0/2))). Cost: 90900
+L797: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L798: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 406
+L799: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L800: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L801: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L802: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L803: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 0
+L804: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L805: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L806: Provider 'EMS' (Provided). Product: 'Zafatek/trelagliptin'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L807: Provider '要町SF' (Provided). Product: '帝人痛风10mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L808: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L809: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L810: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L811: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L812: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L813: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L814: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L815: Provider '要町SF' (Provided). Product: 'Dayvigo莱博雷生5mg 100錠'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L816: Provider 'EMS' (Provided). Product: 'Rybelsus司美格鲁肽索马鲁肽片剂1'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L817: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L818: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L819: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L820: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L821: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L822: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L823: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L824: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 3924
+L825: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L826: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L827: Provider 'EMS' (Provided). Product: 'Mohrus 久光膏药贴　7枚x1袋'. Qty: 5.0. Boxes: 5.0 (Default rule (quantity)). Cost: 6540.0
+L828: Provider 'EMS' (Provided). Product: 'Semaglutide 司美格鲁肽 2m'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L829: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L830: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L831: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L832: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L833: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L834: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L835: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L836: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L837: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 24.0. Boxes: 12 (Mounjaro rule (ceil(24.0/2))). Cost: 7272
+L838: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L839: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 30300
+L840: Provider '大阪神洲物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 100.0. Boxes: 50 (Mounjaro rule (ceil(100.0/2))). Cost: 30300
+L841: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L842: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L843: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L844: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L845: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L846: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L847: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L848: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L849: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L850: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L851: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L852: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L853: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 5.0. Boxes: 3 (Mounjaro rule (ceil(5.0/2))). Cost: 3924
+L854: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L855: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L856: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L857: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L858: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L859: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L860: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L861: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L862: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L863: Provider 'EMS' (Provided). Product: 'Dayvigo莱博雷生10mg 100錠'. Qty: 4.0. Boxes: 4.0 (Default rule (quantity)). Cost: 5232.0
+L864: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L865: Provider '要町SF' (Provided). Product: 'Quviviq/Daridorexant'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1304.0
+L866: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L867: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L868: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 0
+L869: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L870: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L871: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L872: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L873: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L874: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L875: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L876: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L877: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L878: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 812
+L879: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L880: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L881: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L882: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 812
+L883: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 6.0. Boxes: 3 (Mounjaro rule (ceil(6.0/2))). Cost: 1218
+L884: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L885: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L886: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L887: Provider 'ヤマト' (Inferred from Logistics Method). Product: 'Mounjaro 替尔泊肽 替西帕肽 1'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 0
+L888: Provider 'EMS' (Provided). Product: 'Rybelsus 司美格鲁肽 索马鲁肽片'. Qty: 1.0. Boxes: 1.0 (Default rule (quantity)). Cost: 1308.0
+L889: Provider '神戸物流' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 248
+L890: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L891: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L892: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L893: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L894: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L895: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L896: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L897: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 8.0. Boxes: 4 (Mounjaro rule (ceil(8.0/2))). Cost: 5232
+L898: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L899: Provider 'SF CN' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 406
+L900: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L901: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L902: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L903: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L904: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 3.0. Boxes: 2 (Mounjaro rule (ceil(3.0/2))). Cost: 2616
+L905: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L906: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 7'. Qty: 1.0. Boxes: 1 (Mounjaro rule (ceil(1.0/2))). Cost: 1308
+L907: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L908: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 4.0. Boxes: 2 (Mounjaro rule (ceil(4.0/2))). Cost: 2616
+L909: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L910: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 5'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L911: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L912: UNHANDLED. Provider: 'Unknown' (Could not infer). Cost not found.
+L913: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
+L914: Provider 'EMS' (Provided). Product: 'Mounjaro 替尔泊肽 替西帕肽 2'. Qty: 2.0. Boxes: 1 (Mounjaro rule (ceil(2.0/2))). Cost: 1308
