@@ -19,7 +19,15 @@ def run(playwright, file_path: Path):
         print(f"'{Path(__file__).parent / '.env'}' ファイルを開き、メールアドレスとパスワードを正しく設定してください。")
         return
 
-    browser = playwright.chromium.launch(headless=False, slow_mo=500)
+    # CI環境ではヘッドレス、ローカルではヘッドフル（デバッグしやすいように）で実行
+    is_ci = os.getenv('CI') == 'true'
+    print(f"CI環境として実行: {is_ci}")
+
+    launch_options = {'headless': is_ci}
+    if not is_ci:
+        launch_options['slow_mo'] = 500
+
+    browser = playwright.chromium.launch(**launch_options)
     context = browser.new_context()
     page = context.new_page()
 

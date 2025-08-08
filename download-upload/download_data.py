@@ -31,7 +31,15 @@ def main():
         return
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False, slow_mo=500) # headless=Falseでブラウザの動きが見える
+        # CI環境ではヘッドレス、ローカルではヘッドフル（デバッグしやすいように）で実行
+        is_ci = os.getenv('CI') == 'true'
+        print(f"CI環境として実行: {is_ci}")
+
+        launch_options = {'headless': is_ci}
+        if not is_ci:
+            launch_options['slow_mo'] = 500
+
+        browser = p.chromium.launch(**launch_options)
         context = browser.new_context(accept_downloads=True)
         page = context.new_page()
 
