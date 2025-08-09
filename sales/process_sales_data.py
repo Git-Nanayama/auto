@@ -6,12 +6,12 @@ import glob
 
 def find_latest_sales_file():
     """
-    Find the most recent sales data CSV file in the ~/Documents directory.
+    Find the most recent sales data CSV file in the sales/downloaded_data directory.
     The filename is assumed to contain '売上伝票'.
     """
-    documents_path = Path.home() / "Documents"
+    input_dir = Path("sales") / "downloaded_data"
     # The filename from the download is "売上伝票_{YYYYMMDDHHMMSS}.csv"
-    search_pattern = str(documents_path / "売上伝票_*.csv")
+    search_pattern = str(input_dir / "売上伝票_*.csv")
     files = glob.glob(search_pattern)
     if not files:
         return None
@@ -61,7 +61,7 @@ def main():
     sales_file = find_latest_sales_file()
 
     if not sales_file:
-        print("Info: No sales data CSV file found in ~/Documents.")
+        print("Info: No sales data CSV file found in sales/downloaded_data.")
         print("--- process_sales_data.py finished (no file to process) ---")
         # Create an empty processed file so the next step doesn't fail
         output_csv_path = Path("sales") / "processed_sales.csv"

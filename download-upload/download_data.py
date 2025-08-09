@@ -16,14 +16,18 @@ TENKURA_PASSWORD = os.getenv('TENKURA_PASSWORD')
 # URL
 LOGIN_URL = "https://app.cloud-tenkura.net/home"
 
-# 保存先フォルダ (PCのドキュメントフォルダ)
-DOCUMENTS_PATH = Path.home() / "Documents"
+# 保存先フォルダ (sales/downloaded_data)
+OUTPUT_DIR = Path("sales") / "downloaded_data"
 
 # --- メイン処理 ---
 def main():
     """
-    天の蔵にログインし、売上・仕入データをダウンロードしてドキュメントフォルダに移動する
+    天の蔵にログインし、売上・仕入データをダウンロードして指定のフォルダに移動する
     """
+    # --- 出力ディレクトリの作成 ---
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    print(f"データは '{OUTPUT_DIR.resolve()}' に保存されます。")
+
     # --- 事前チェック ---
     if not TENKURA_EMAIL or not TENKURA_PASSWORD or TENKURA_EMAIL == "your_email@example.com":
         print("エラー: .envファイルが正しく設定されていません。")
@@ -113,8 +117,8 @@ def main():
             print(f"ファイル '{download.suggested_filename}' のダウンロードが完了しました。")
 
             # 1-4. 売上ファイルの移動
-            print("1-4. 売上ファイルをドキュメントフォルダに移動します...")
-            destination_path = DOCUMENTS_PATH / download.suggested_filename
+            print(f"1-4. 売上ファイルを '{OUTPUT_DIR}' フォルダに移動します...")
+            destination_path = OUTPUT_DIR / download.suggested_filename
             # 移動先にファイルが既に存在する場合は上書きする
             if destination_path.exists():
                 destination_path.unlink()
@@ -159,8 +163,8 @@ def main():
             print(f"ファイル '{download.suggested_filename}' のダウンロードが完了しました。")
 
             # 2-3. 仕入ファイルの移動
-            print("2-3. 仕入ファイルをドキュメントフォルダに移動します...")
-            destination_path = DOCUMENTS_PATH / download.suggested_filename
+            print(f"2-3. 仕入ファイルを '{OUTPUT_DIR}' フォルダに移動します...")
+            destination_path = OUTPUT_DIR / download.suggested_filename
             # 移動先にファイルが既に存在する場合は上書きする
             if destination_path.exists():
                 destination_path.unlink()
