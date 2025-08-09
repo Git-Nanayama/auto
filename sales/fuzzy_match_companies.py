@@ -1,10 +1,8 @@
 import sys
 
 def main():
-    print("--- Running fuzzy_match_companies.py (Placeholder) ---")
-    # In a real implementation, this script would read a file,
-    # perform fuzzy matching on company names, and write an output file.
-    print("This is a placeholder script. No actual logic is implemented.")
+    print("--- Running fuzzy_match_companies.py ---")
+    print("Info: This script is currently a no-op and does not perform any fuzzy matching.")
     print("--- fuzzy_match_companies.py finished ---")
     sys.exit(0)
 
