@@ -1,0 +1,28 @@
+name: Validate Journal Data
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    # This step is for demonstration. In a real scenario, the data
+    # might be generated from a different source or process.
+    - name: Generate sample journal CSV
+      run: python src/generate_journal.py
+
+    - name: Validate generated journal data
+      run: python src/validate_journal.py
